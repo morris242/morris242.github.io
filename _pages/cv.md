@@ -17,7 +17,7 @@ Education
 
 Work experience
 ======
-* Spring 2025: TA for ECE 2544 - Fundamentals of Digital Systems
+* Spring 2025: Teacher Assistant for ECE 2544 - Fundamentals of Digital Systems
   * Virginia Tech
   * Work with students who need extra assistance 
   * Part of TA team and have my own office hours
