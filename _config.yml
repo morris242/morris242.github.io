@@ -22,7 +22,7 @@ repository               : "morris242/morris242.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "C:\Users\Jbubb\OneDrive\Pictures\profilepicture.jpg"
+  avatar           : "profilepicture.jpg"
   name             : "Justin Morris"
   pronouns         : # example: "he/him"  
   bio              : "Computer Engineer"
