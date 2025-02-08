@@ -18,7 +18,7 @@ Education
 * A.S. in Chesapeake, Tidewater Community College, Aug 2021 - May 2022
   * Didn't complete A.S., transferred from Tidewater Community College to Virginia Western Community College to finish my second year in A.S.
 * Advanced Studies Diploma in Chesapeake, Hickory High School, Sept 2017 - June 2021
-  * Graduated with 4.0683 GPA
+  * Graduated with 4.0683 GPA including State of Virginia Governors seal
 
 Work experience
 ======
