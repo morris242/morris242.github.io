@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Justin Morris / Computer Engineer"
+title                    : "Bio"
 title_separator          : "-"
 name                     : &name "Justin Morris"
 description              : &description "personal description"
@@ -23,13 +23,13 @@ repository               : "morris242/morris242.github.io"
 author:
   # Biographic information
   avatar           : "profilepicture.png"
-  name             : "Your Sidebar Name"
+  name             : "Justin Morris"
   pronouns         : # example: "he/him"  
-  bio              : "Short biography for the left-hand sideba"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  bio              : "Computer Engineer"
+  location         : "Goodview"
+  employer         : "Virginia Tech"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "morris242@yahoo.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
